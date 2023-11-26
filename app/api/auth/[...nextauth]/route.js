@@ -13,7 +13,7 @@ const handler = NextAuth({
         },
       },
       // Explicitly define the callback URL
-      callbackUrl: `${process.env.NEXTAUTH_URL}/dashboard`,
+      callbackUrl: `https://audiolyze.vercel.app/dashboard`,
     }),
   ],
   callbacks: {

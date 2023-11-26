@@ -27,7 +27,7 @@ export default function Home() {
       </button>
       <div className="mt-8">
         <p className=" text-sm font-mono text-gray-500 ">
-          We don't store your personal data
+          We don&apos;t store your personal data
         </p>
       </div>
       <footer className="text-black text-sm absolute bottom-8">
